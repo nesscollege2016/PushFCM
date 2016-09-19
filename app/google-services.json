@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856417130608",
+    "firebase_url": "https://fcmnotifications-ecd8c.firebaseio.com",
+    "project_id": "fcmnotifications-ecd8c",
+    "storage_bucket": "fcmnotifications-ecd8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856417130608:android:03e11d18b009c0f1",
+        "android_client_info": {
+          "package_name": "tomerbu.edu.pushfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856417130608-6iv5b422hqievm1tih8t55m9nufed7fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tomerbu.edu.pushfcm",
+            "certificate_hash": "11198345D110CEE92D23376EF1165711277A9126"
+          }
+        },
+        {
+          "client_id": "856417130608-o6e23deldui9bjsvih64cb3ogntl6otu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArvgj45VKpdLBvoGdVSIEEihEmOfA6ru0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856417130608-o6e23deldui9bjsvih64cb3ogntl6otu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
